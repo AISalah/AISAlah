@@ -10,7 +10,7 @@ It's a special repository that displays this README on your main profile page.
 </p> -->
 
 <!-- INTRODUCTION -->
-<h1 align="center">Hi there, I'm Salah 👋</h1>
+<h1 align="center">Hi, I'm Salah 👋</h1>
 <p align="center">
   A passionate Backend Developer in training through the <b>ALX Software Engineering Program</b>. I specialize in building the logical engines and robust data systems that power modern web applications.
 </p>
