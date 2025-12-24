@@ -10,7 +10,7 @@ It's a special repository that displays this README on your main profile page.
 </p> -->
 
 <!-- INTRODUCTION -->
-<h1 align="center">Hi, I'm Salah 👋</h1>
+<h1 align="center">Hi, I'm Salah</h1>
 <p align="center">
   A passionate Backend Developer in training through the <b>ALX Software Engineering Program</b>. I specialize in building the logical engines and robust data systems that power modern web applications.
 </p>
@@ -20,7 +20,7 @@ It's a special repository that displays this README on your main profile page.
 </p>
 
 <!-- MY VISION -->
-## 🔭 My Vision
+## My Vision
 
 > My vision is to become a highly skilled Backend Developer who builds the logical engines that power modern applications. I thrive in collaborative environments where I can learn from experienced mentors and contribute to a team that values clean code, continuous learning, and creating impactful solutions. I am driven to build a career that is both intellectually challenging and fulfilling, working on projects that make a real difference.
 
@@ -29,14 +29,14 @@ My current focus is on building and deploying projects like scalable e-commerce 
 ---
 
 <!-- WHAT I'M WORKING ON -->
-## 🌱 What I'm Currently Working On
+## What I'm Currently Working On
 
 *   Deepening my understanding of Python and the Django framework.
 *   Building a Library Management System to apply my knowledge of database design and business logic.
 *   Exploring the fundamentals of deploying applications with Docker.
 
 <!-- TECH STACK -->
-## 🛠️ My Tech Stack & Tools
+## My Tech Stack & Tools
 
 Here are some of the technologies and tools I'm learning to use:
 
@@ -57,7 +57,7 @@ Here are some of the technologies and tools I'm learning to use:
 </p>
 
 <!-- GITHUB STATS -->
-## 📊 My GitHub Stats
+## My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AISAlah&show_icons=true&theme=radical" alt="Your GitHub Stats"/>
